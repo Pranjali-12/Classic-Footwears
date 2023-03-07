@@ -1,0 +1,126 @@
+.log1{
+    /* font-family: "Berkshire Swash", cursive; */
+    font-family: 'Titillium Web', sans-serif;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    height: 650px;
+    width: 400px;
+    border: 2px solid BLACK;
+    border-radius: 25px;
+    text-align: center;
+    background-color: rgba(31, 186, 191, 0.45);
+    color: black;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.mai{
+    margin-top: 0px;
+    margin-bottom: -10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* border: 0px solid red; */
+    background-image: 
+    linear-gradient(rgba(255, 255, 255, 0.6), rgba(0, 0, 0, 0.2)),
+    url('https://images.unsplash.com/photo-1604671801908-6f0c6a092c05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* height: 100vh; */
+}
+.lhead{
+    text-align: left;
+    margin: 10px;
+    font-size: 40px;
+    font-weight: 600;
+}
+.block{
+    font-size: 20px;
+    text-align: left;
+    margin: 2px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.label{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 0px 10px 0px;
+}
+.or{
+    font-size: 20px;
+}
+.input{
+    font-family: 'Titillium Web', sans-serif;
+    height: 25px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 2px;
+    padding: 2px;
+}
+.cb{
+    text-align: left;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    display: flex;
+    gap: 10px;
+}
+.check{
+    height: 20px;
+    width: 20px;
+}
+.p{
+    font-size: 20px;
+}
+button{
+    font-family: 'Titillium Web', sans-serif;
+    margin: 25px;
+    margin-left: 18px;
+    padding-left: 10px;
+    padding-right: 15px;
+    width: 370px;
+    font-size: 30px;
+    border: 2px solid black;
+    padding: 0;
+    border-radius: 8px;
+    color: white;
+    background-color: black;
+    transition: 0.3s ease;
+    letter-spacing: 1px;
+}
+button:hover{
+    color: black;
+    background-color: rgba(255, 255, 255, 0.718);
+    cursor: pointer;
+}
+.f{
+    padding-right: 15px;
+    text-align: right;
+}
+.sl{
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+    gap: 2px;
+    text-align: center;
+}
+.g{
+    flex: 2;
+}
+.f{
+    flex: 2;
+}
+.l{
+    flex: 2;
+}
+.need{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    color: black;
+}

@@ -1,0 +1,57 @@
+.cimg{
+    border-radius: 5px 5px 0px 0px;
+    height: 250px;
+    width: 250px;
+}
+.cart{
+    /* border: 2px solid blue; */
+    border-radius: 5px 5px 5px 5px;
+    height: auto;
+    width: 250px;
+    /* background-color: black; */
+    transition: 0.5s ease;
+}
+.cart:hover{
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+.like{
+    float: right;
+    padding-right: 15px;
+    padding-top: 15px;
+    background-color: black;
+}
+.pri{
+    /* border: 1px solid rgb(31, 186, 191,0.4); */
+    border-radius:0px 0px 25px 25px ;
+    margin-top: -3px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    font-size: 22px;
+    /* background-color: black; */
+    color: black;
+    height: 50px;
+}
+.Brand{
+    color: white;
+}
+.buy{
+    height: 45px;
+    width: 210px;
+    font-size: 23px;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    background-color: #5cf0f5;
+    color: black;
+    box-shadow: 2px 2px 5px white;
+    padding: 6px;
+    font-weight: bold;
+}
+.buy:hover{
+    background-color: #1deff6;
+}

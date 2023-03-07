@@ -1,0 +1,7 @@
+.maincart{
+    display: flex;
+    gap: 36px;
+    padding: 9px;
+    margin-top: 10px;
+    flex-wrap: wrap;
+}

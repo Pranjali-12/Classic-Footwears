@@ -1,0 +1,28 @@
+.mmain{
+    display: flex;
+    height: auto;
+}
+.content{
+    padding: 30px;
+    height: 585px;
+    display: block;
+    overflow-y: scroll;
+    background-color: rgba(197, 239, 240, 0.978);
+    /* background-color: #F8F9F9; */
+}
+.xc{
+    margin-top: -50px;
+}
+.mhead{
+    /* font-family: "Berkshire Swash", cursive; */
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 80px;
+    padding-bottom: 0px;
+    margin: 0px;
+    margin-bottom: -10px;
+}
+.title{
+    font-size: 40px;
+    /* font-family: "Berkshire Swash", cursive; */
+    font-family: 'Titillium Web', sans-serif;
+}

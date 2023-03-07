@@ -1,0 +1,19 @@
+.mmain{
+    display: flex;
+    height: auto;
+}
+.content{
+    padding: 30px;
+    height: 585px;
+    display: block;
+    overflow-y: scroll;
+}
+.mhead{
+    font-size: 60px;
+}
+.title{
+    font-size: 40px;
+}
+.yet{
+    color: black;
+}
